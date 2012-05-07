@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BackTrack-PG</string>
+    <string name="open_new_window">Open New Window</string>
+    <string name="script_label">Script:</string>
+    <string name="run_script">Run Script</string>
+    <string name="help">Welcome to BackTrack-PG \n\n\nStart Script intents to Android Terminal Emulator.\n \nHave pfun and Hack The Planet with your Android :-) \n \n</string>
+
+    <!-- Do not translate: -->
+	<string name="default_script">su \nsleep 2 \ncd /sdcard/backtrack \necho Backtrack Android App by cr4shy  http://security-is-just-an-illusion.blogspot.de \nsleep 10 \nsh backtrack.sh</string>
+</resources>
